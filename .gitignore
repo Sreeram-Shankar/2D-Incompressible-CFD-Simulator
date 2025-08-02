@@ -1,0 +1,19 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Fortran binary
+cfd.exe
+
+# Parameters
+parameters.txt
+
+# Output directories
+graphs/
+results/
+
+# Environment or package metadata (optional)
+*.log
+*.egg-info/
+.env
+venv/
