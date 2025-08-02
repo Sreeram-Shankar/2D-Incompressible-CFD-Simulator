@@ -45,7 +45,6 @@ Ensure you have `gfortran` installed. Compile the backend like this:
 gfortran -O2 -o cfd.exe cfd_backend.f90
 ```
 
-Do **not** upload `cfd.exe` to the repository.
 
 ### 2. Install Python Dependencies
 
