@@ -80,7 +80,7 @@ Listed in `requirements.txt`:
 
 ## Version
 
-**v0.9.0** — Stable public release. Backend Fortran solver, full GUI, and visualizations complete. Minor improvements in solver modularity and advanced analysis (e.g., streamline density control) are planned for future releases.
+**v1.0.0** — Stable public release. Backend Fortran solver, full GUI, and visualizations complete. Improvements in solver modularity and advanced analysis (e.g., streamline density control) are planned for future releases.
 
 ## License
 
