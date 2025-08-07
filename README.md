@@ -24,7 +24,7 @@ This is a full-featured 2D incompressible flow simulator using the vorticity-str
 
 ```
 .
-├── main.py              # Main GUI and simulation interface
+├── cfd_main.py              # Main GUI and simulation interface
 ├── cfd_visuals.py       # Visualization logic (heatmaps, quivers, streamlines)
 ├── parameters.txt       # Auto-generated file storing simulation inputs
 ├── theme.json           # GUI color/style configuration
