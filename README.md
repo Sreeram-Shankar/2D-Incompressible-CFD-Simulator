@@ -29,7 +29,7 @@ This is a full-featured 2D incompressible flow simulator using the vorticity-str
 ├── parameters.txt       # Auto-generated file storing simulation inputs
 ├── theme.json           # GUI color/style configuration
 ├── cfd_backend.f90      # Fortran source file (compile manually)
-├── cfd.exe              # Compiled binary (do not upload)
+├── cfd.exe              # Compiled binary (not uploaded,compiled)
 ├── requirements.txt     # Python package dependencies
 ├── .gitignore           # Ignore binary/graph files
 ├── README.md            # This file
